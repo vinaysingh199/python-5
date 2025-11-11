@@ -1,0 +1,10 @@
+site_name: python-5
+site_description: Main documentation for python-5
+repo_url: https://github.com/vinaysingh19/python-5
+edit_uri: edit/main/docs
+
+plugins:
+  - techdocs-core
+
+nav:
+  - Home: index.md
